@@ -1,8 +1,7 @@
 body{margin: auto; background-color: blueviolet;
 
-
 }
 
-section{
+ul{display: inline-block; list-style: none;
     
 }
