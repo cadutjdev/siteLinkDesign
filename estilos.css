@@ -5,6 +5,12 @@ body{margin: auto; background-color: blueviolet;
 ul{display: inline-block; list-style: none; background-color: chartreuse;
     
 }
+nav{
+    text-align: center;
+}
 li{
     text-align: center;
+}
+.quadro1{
+    width: 100%; background-color: crimson;
 }
