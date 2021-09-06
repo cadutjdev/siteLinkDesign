@@ -2,6 +2,9 @@ body{margin: auto; background-color: blueviolet;
 
 }
 
-ul{display: inline-block; list-style: none;
+ul{display: inline-block; list-style: none; background-color: chartreuse;
     
+}
+li{
+    text-align: center;
 }
